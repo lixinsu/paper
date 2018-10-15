@@ -12,3 +12,7 @@ English phrases for writing
 9. be capable of jointly doing sth 能做某事
 10. considerable performance gains 比较大的性能提升
 11. The statistics of the xxx dataset is shown in the Table x.
+12. We use the term xxx to  refer to xxx with xxx.
+13. IN extractive reading comprehension datasets, a system must extract the correct answer to a question from a context document or paragraph.
+14. user-facing system
+15. Recognizeing textual entailment requires systems to decide whether a hypothesis is entailed by, contradicted by, or neural with respect to a premise.
