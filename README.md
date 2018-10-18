@@ -14,6 +14,15 @@ English phrases for writing
 11. The statistics of the xxx dataset is shown in the Table x.
 12. We use the term xxx to  refer to xxx with xxx.
 13. IN extractive reading comprehension datasets, a system must extract the correct answer to a question from a context document or paragraph.
-14. user-facing system
-15. Recognizeing textual entailment requires systems to decide whether a hypothesis is entailed by, contradicted by, or neural with respect to a premise.
-16. character-derived embeddings
+14. user-facing system  
+15. Recognizeing textual entailment requires systems to decide whether a hypothesis is entailed by, contradicted by, or neural with respect to a premise.  
+16. character-derived embeddings  
+17. restrict their applicability in many domains that suffers from a dearth of ... 受限制  
+18. provide a valuable alternatives to doning sth. 提供一种可选方案  
+19. provide a significant performance boost. 提升一个显著的性能提升  
+20. compelling evidence for 有说服力的证据  
+21. doing sth is challenging for two reason. First, xxx. Second, xxx. 做某事是有挑战的因为两个原因，其一。其二。  
+22. This model choice provides us with more memmory for handling .. 模型结构的选择使得我们有更多空间去处理  
+23. compared to alternatives like ... ， resulting in   
+24. Our training proedure consists of two stages. The first stage is  ... . This is followed by a xx stage, where we adapt the model to a discriminative task with labels data  
+25. 
