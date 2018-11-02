@@ -25,4 +25,9 @@ English phrases for writing
 22. This model choice provides us with more memmory for handling .. 模型结构的选择使得我们有更多空间去处理  
 23. compared to alternatives like ... ， resulting in   
 24. Our training proedure consists of two stages. The first stage is  ... . This is followed by a xx stage, where we adapt the model to a discriminative task with labels data  
-25. 
+25. must posses the ability to determine whether ..
+26. if and only if the associated passage contains the answer
+27. strong baseline system that use pieline and threshold-based approaches
+28. Machine comprehension systems mimic the process of reading comprehension by ansewring questions after understanding natural language text.
+29. neural model for answer span extraction
+30. 
