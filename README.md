@@ -30,4 +30,6 @@ English phrases for writing
 27. strong baseline system that use pieline and threshold-based approaches
 28. Machine comprehension systems mimic the process of reading comprehension by ansewring questions after understanding natural language text.
 29. neural model for answer span extraction
-30. 
+30. Although this does allow us to obtain bidirectional pre-trained model, threr are two main downsides to such an approch.
+31. semantically equivalent 语义等价
+32. Given a pair of sentences, the goal is to predict whether the second sentence is an entailment, contradication, or neutral with respect to the first one. 
