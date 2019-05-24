@@ -33,3 +33,6 @@ English phrases for writing
 30. Although this does allow us to obtain bidirectional pre-trained model, threr are two main downsides to such an approch.
 31. semantically equivalent 语义等价
 32. Given a pair of sentences, the goal is to predict whether the second sentence is an entailment, contradication, or neutral with respect to the first one. 
+33. is more concerned with doing /put more emphasis on N 更加关注 
+34. Types of machine learning 机器学习的累心
+35. 
