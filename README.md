@@ -38,3 +38,4 @@ English phrases for writing
 35. almost all 几乎所有
 36. preliminaries 前言 background 背景， 作为第二节
 37. in principle 原则上，大体上
+38.  is free of 免疫 is free of adversarial attck
