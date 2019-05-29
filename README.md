@@ -35,4 +35,6 @@ English phrases for writing
 32. Given a pair of sentences, the goal is to predict whether the second sentence is an entailment, contradication, or neutral with respect to the first one. 
 33. is more concerned with doing /put more emphasis on N 更加关注 
 34. Types of machine learning 机器学习的累心
-35. 
+35. almost all 几乎所有
+36. preliminaries 前言 background 背景， 作为第二节
+37. in principle 原则上，大体上
