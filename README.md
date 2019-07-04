@@ -40,3 +40,4 @@ English phrases for writing
 37. in principle 原则上，大体上
 38.  is free of 免疫 is free of adversarial attck
 39. is upper bounded by 
+40. For ease of exposition 为了说明简单
